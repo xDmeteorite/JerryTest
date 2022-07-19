@@ -14,17 +14,17 @@ from pyrogram.types import InlineKeyboardButton
 selections = [
     "▁▄▂▇▄▅▄▅▃",
     "▁▃▇▂▅▇▄▅▃",
-    "▃▁▇▂▅▃▄▃▅",
+    "@JerryBotZ",
     "▃▄▂▄▇▅▃▅▁",
     "▁▃▄▂▇▃▄▅▃",
-    "▃▁▄▂▅▃▇▃▅",
+    "▅@xDorEki▅",
     "▁▇▄▂▅▄▅▃▄",
     "▁▃▅▇▂▅▄▃▇",
     "▃▅▂▅▇▁▄▃▁",
-    "▇▅▂▅▃▄▃▁▃",
+    "@jerryBotz",
     "▃▇▂▅▁▅▄▃▁",
     "▅▄▇▂▅▂▄▇▁",
-    "▃▅▂▅▃▇▄▅▃",
+    "@ThreeAmEra",
 ]
 
 
