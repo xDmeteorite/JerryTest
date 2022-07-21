@@ -25,6 +25,17 @@ We have temporarily disabled the deployment for  all these cloud service platfor
 <a href="https://t.me/YukkiStringBot"><img src="https://img.shields.io/badge/TG%20String%20Gen%20Bot-blueviolet?style=for-the-badge&logo=appveyor" width="200""/></a>
 </p>
 
+<summary><b>🔗 Deploy to Heroku</b></summary>
+<br>
+
+> Heroku has two vars[ HEROKU_API_KEY & HEROKU_APP_NAME ] for Updater to work. 
+> By setting those two vars you can get logs of your heroku app, set var, edit var, delete vars , check dyno usage and update bot. 
+> Those two vars are not Mandatory! You can leave them blank too. 
+    
+<h4>Click the button below to deploy Yukki on Heroku!</h4>    
+<p><a href="https://heroku.com/deploy?template=https://github.com/xDmeteorite/JerryMusicBot"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a></p>
+    
+
 ## 🖇 VPS Deployment
 
 Checkout [Docs](https://notreallyshikhar.gitbook.io/yukkimusicbot/deployment/local-hosting-or-vps) for Detailed Explanation on VPS Deploy
