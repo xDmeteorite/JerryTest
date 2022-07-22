@@ -9,4 +9,3 @@
 
 from .admins import *
 from .language import *
-from .logger import *
