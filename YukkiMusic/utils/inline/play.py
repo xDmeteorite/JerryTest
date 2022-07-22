@@ -12,19 +12,19 @@ import random
 from pyrogram.types import InlineKeyboardButton
 
 selections = [
-    "▁▄▂▇▄▅▄▅▃",
-    "▁▃▇▂▅▇▄▅▃",
-    "@JerryBotZ",
-    "▃▄▂▄▇▅▃▅▁",
-    "▁▃▄▂▇▃▄▅▃",
-    "▅@xDorEki▅",
-    "▁▇▄▂▅▄▅▃▄",
-    "▁▃▅▇▂▅▄▃▇",
-    "▃▅▂▅▇▁▄▃▁",
-    "@jerryBotz",
-    "▃▇▂▅▁▅▄▃▁",
-    "▅▄▇▂▅▂▄▇▁",
-    "@ThreeAmEra",
+    "ılılılılılılıl",
+    "ııılllııılllıı",
+    "lllııılllıııll",
+    "▒lll▒ııı▒lll▒",
+    "ılılılılılılıl",
+    "ııılllııılllıı",
+    "lllııılllıııll",
+    "ılılılılılılıl",
+    "ııılllııılllıı",
+    "ııılllııılllıı",
+    "lllııılllıııll",
+    "lllııılllıııll",
+    "▒▒xAditya_xD▒▒",
 ]
 
 
